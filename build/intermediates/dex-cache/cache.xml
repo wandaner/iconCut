@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/rrdev/GitHubForXukai/IconProject/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="825eb339664994e362acaafc2548630dd5c78c6e">
+        <dex dex="/Users/rrdev/GitHubForXukai/IconProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_763f858632b5575af87fab04b1e81747b805cdfe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rrdev/GitHubForXukai/IconProject/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/rrdev/GitHubForXukai/IconProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e626f8c3580b245833bbb2698d56b75273111254/classes.dex" />
+    </item>
+
+</items>

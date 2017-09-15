@@ -1,0 +1,7 @@
+
+tsquid:S1450"XRemove the "tvConfirm" field and declare it as a local variable in the relevant methods.(íï´8Öõî×+
+lsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(×“¾ñùÿÿÿÿ8¬ ûî×+
+osquid:MaximumInheritanceDepth"<This class has 8 parents which is greater than 5 authorized.(Ñúÿÿÿÿ8¬ûÖî×+
+Z"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(×“¾ñùÿÿÿÿ8¬ ûî×+
+xsquid:S1450"WRemove the "tvCancel" field and declare it as a local variable in the relevant methods.(™ŸåĞüÿÿÿÿ8ƒ¶óî×+
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ù˜şî×+
